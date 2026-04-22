@@ -90,7 +90,7 @@ Paper submitted to **CoDIT 2026**
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saranimje&show_icons=true&count_private=true" />
@@ -105,6 +105,7 @@ Paper submitted to **CoDIT 2026**
 </p>
 
 ---
+-->
 
 ## 🏆 Achievements
 
