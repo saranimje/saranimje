@@ -20,7 +20,8 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year **B.Tech in Electronics & Telecommunication** at **VJTI, Mumbai**
+- 💼 GET at BeatRoute Innovations - Customer Success
+- 🎓 **B.Tech in Electronics & Telecommunication** at **VJTI, Mumbai**
 - 📊 Strong blend of **Product, Data, AI/ML, and Backend Engineering**
 - 🤖 Research experience in **Computer Vision + Edge AI**
 - 📈 Worked across **analytics, ETL pipelines, experimentation, and GTM insights**
