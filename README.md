@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sara Nimje 👋</h1>
-<h3 align="center">Electronics & Telecommunication @ VJTI | Product + Data + AI</h3>
+<h3 align="center">GET at BeatRoute | Electronics & Telecommunication @ VJTI | Product + Data + AI</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sara-nimje">
